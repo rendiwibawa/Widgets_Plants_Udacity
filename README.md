@@ -12,27 +12,27 @@
 - [x] Ikuti video tutorialnya
 
 ## Screenshots 
-	Ini adalah tampilan awal aplikasi kita dapat menambahkan tanaman yang nantinya akan kita siram di setiap waktunya
+> Ini adalah tampilan awal aplikasi kita dapat menambahkan tanaman yang nantinya akan kita siram di setiap waktunya
 > 
 > 
 ![Screenshot1](screenshots/tambahnanaman.jpeg) 
 ## Screenshots 
-	Setelah itu kita dapat menampilkan tanaman yang sudah kita tambahkan tadi di hp kita dengan menggunakan fitur Widget 
+> Setelah itu kita dapat menampilkan tanaman yang sudah kita tambahkan tadi di hp kita dengan menggunakan fitur Widget 
 > 
 > 
 ![Screenshot2](screenshots/widget1.jpeg) 
 ## Screenshots 
-	Cara menembahkanya di hp Honor 7A tekan layar sekitar 5detik kemudian pilih opsi widget dan cari app mygarden
+> Cara menembahkanya tekan layar sekitar 5detik kemudian pilih opsi widget dan cari app mygarden
 > 
 > 
 ![Screenshot3](screenshots/widget2.jpeg)
 ## Screenshots 
-	Tampilan dari fitur detail tanaman terdapat umur tanaman dan water meter 
+> Tampilan dari fitur detail tanaman terdapat umur tanaman dan water meter 
 > 
 > 
 ![Screenshot4](screenshots/potrait.jpeg) 
 ## Screenshots 
-	Tampilan landscape
+> Tampilan landscape
 > 
 > 
 ![Screenshot5](screenshots/landscape.jpeg) 
