@@ -20,7 +20,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="100dp"
     android:layout_height="100dp"
-    android:layout_marginTop="150dp"
+    android:layout_marginTop="150dp"//agar tidak tempur dengan action bar
     android:orientation="vertical">
 
     <ImageView
