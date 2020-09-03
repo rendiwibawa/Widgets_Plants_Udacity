@@ -37,6 +37,15 @@
 > 
 ![Screenshot5](screenshots/landscape.jpeg) 
 
+## Catatan
+### Mungkin pada tutorial udacity dependency nya berbeda dengan android studio update saat ini maka
+- [x] anda dapat mengubahnya menjadi androidx 
+- [x] atau dapat gunakan repository ini untuh bahan belajar 
+
+
+#Terima Kasih
+
+
 ## Resources gambar
 ### link berikut
 - [x] sapling-plant-growing-seedling  [Klik Disini ](https://pixabay.com/en/sapling-plant-growing-seedling-154734/).
