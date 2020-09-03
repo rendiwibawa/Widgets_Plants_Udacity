@@ -7,9 +7,16 @@ My Garden is a simple game that allows you to add plants to your garden and keep
 The app illustrates the power of widgets and collection widgets by making it easier for the user to monitor and water their plants from the home screen
 
 ## Screenshots
-
-![Screenshot1](screenshots/tambahnanaman.jpeg) ![Screenshot2](screenshots/widget1.jpeg) ![Screenshot3](screenshots/widget2.jpeg)
-![Screenshot4](screenshots/potrait.jpeg) ![Screenshot5](screenshots/landscape.jpeg) 
+> Ini adalah tampilan awal aplikasi kita dapat menambahkan tanaman yang nantinya akan kita siram di setiap waktunya
+![Screenshot1](screenshots/tambahnanaman.jpeg) 
+> Setelah itu kita dapat menampilkan tanaman yang sudah kita tambahkan tadi di hp kita dengan menggunakan fitur Widget 
+![Screenshot2](screenshots/widget1.jpeg) 
+> Cara menembahkanya di hp Honor 7A tekan layar sekitar 5detik kemudian pilih opsi widget dan cari app mygarden
+![Screenshot3](screenshots/widget2.jpeg)
+> Tampilan dari fitur detail tanaman terdapat umur tanaman dan water meter 
+![Screenshot4](screenshots/potrait.jpeg) 
+> Tampilan landscape
+![Screenshot5](screenshots/landscape.jpeg) 
 
 ## Image resources
 https://pixabay.com/en/sapling-plant-growing-seedling-154734/
