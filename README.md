@@ -1,7 +1,7 @@
 
 # App Widgets Plant
 
-## PENGERTIAN WIDGETS
+## PENGERTIAN WIDGETS.
 
 > Widget adalah sebuah “perwakilan” dari aplikasi yang memungkinkan pengguna untuk dapat menggunakan fitur dari aplikasi yang diwakilkan tersebut secara langsung tanpa harus membuka aplikasi “sesungguhnya”. Biasanya widget terletak pada home screen atau tampilan awal layar perangkat Android anda.ng berjalan dengan dinamis. Node.js dibuat berdasarkan runtime Javascript, dan dapat dijalankan oleh berbagai  macam sistem operasi. Node.js pun memiliki banyak pustaka HTTP yang dapat membuat menjalankan server tanpa program server web seperti Apache, dan lain-lain.
 
